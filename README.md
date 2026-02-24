@@ -1,4 +1,4 @@
-# EU Gas Storage Dashboard — AGSI (Streamlit)
+# EU Gas Storage Dashboard — AGSI
 
 Live interactive dashboard for exploring European gas storage using the  
 GIE AGSI API.
